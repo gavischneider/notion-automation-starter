@@ -60,7 +60,7 @@ Copy the `.env.example` file:
 
 Open `secrets.env` and add:
 
-- `NOTION_TOKEN`: Your internal integration secret (Starts with `secret_...`).
+- `NOTION_TOKEN`: Your internal integration secret (Starts with `ntn_...`).
 - `DATABASE_ID`: The ID of the specific Notion database you are targeting.
 - _Any other API keys your specific source requires._
 * * *
